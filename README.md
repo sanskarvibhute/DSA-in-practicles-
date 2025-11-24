@@ -10,7 +10,7 @@
 
 *A comprehensive journey through the world of Data Structures and Algorithms using C programming* 🎯
 
-[⭐ Star](https://github.com/sanskarvibhute/DSA-in-practicals) • [🐛 Report Bug](https://github.com/sanskarvibhute/DSA-in-practicals/issues) • [💡 Request Feature](https://github.com/sanskarvibhute/DSA-in-practicals/issues)
+[⭐ Star](https://github.com/sanskarvibhute?tab=stars) • [🐛 Report Bug](https://github.com/sanskarvibhute/DSA-in-practicles-/issues) • [💡 Request Feature](https://github.com/sanskarvibhute/DSA-in-practicles-/issues)
 
 </div>
 
@@ -263,15 +263,15 @@ We ❤️ contributions! Here's how you can help:
 
 ### 💬 Questions? Suggestions?
 
-📧 [Open an Issue](https://github.com/sanskarvibhute/DSA-in-practicals/issues) • 💭 [Start a Discussion](https://github.com/sanskarvibhute/DSA-in-practicals/discussions)
+📧 [Open an Issue](https://github.com/sanskarvibhute/DSA-in-practicles-/issues) • 💭 [Start a Discussion](https://github.com/sanskarvibhute/DSA-in-practicals/discussions)
 
 ### ⭐ Show Your Support
 
 If this repository helped you, please give it a star! ⭐  
 *It motivates us to create more amazing content!* 🚀
 
-[![GitHub stars](https://img.shields.io/github/stars/sanskarvibhute/DSA-in-practicals?style=social)](https://github.com/sanskarvibhute/DSA-in-practicals)
-[![GitHub forks](https://img.shields.io/github/forks/sanskarvibhute/DSA-in-practicals?style=social)](https://github.com/sanskarvibhute/DSA-in-practicals)
+[![GitHub stars](https://img.shields.io/github/stars/sanskarvibhute/DSA-in-practicals?style=social)](https://github.com/sanskarvibhute?tab=stars)
+[![GitHub forks](https://img.shields.io/github/forks/sanskarvibhute/DSA-in-practicals?style=social)](https://github.com/sanskarvibhute?tab=followers)
 
 </div>
 
@@ -294,3 +294,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [⬆ Back to Top](#-dsa-in-practicals)
 
 </div>
+
