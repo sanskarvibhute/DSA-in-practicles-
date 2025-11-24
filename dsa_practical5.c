@@ -1,4 +1,7 @@
-
+/*
+Experiment No. 4
+Title: Write a C program to create a product list the shopping mall.
+*/
 
 
 
@@ -203,3 +206,4 @@ void loadFromFile() {
     fclose(fp);
     printf("Loaded %d products from file.\n", count);
 }
+
